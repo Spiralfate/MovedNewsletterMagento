@@ -16,10 +16,7 @@
             "Vendor\\MovedNewsletter\\": ""
         },
         "files": [
-            "registration.php",
-            "/view/frontend/layout/default.xml",
-            "etc/module.xml",
-            "etc/frontend/routes.xml",
+            "registration.php"
         ]
     }
 }
