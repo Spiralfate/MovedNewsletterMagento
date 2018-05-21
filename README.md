@@ -20,6 +20,10 @@
    
       php bin/magento module:enable Vendor_MovedNewsletter
       
-3. При необходимости, очистить кэш командой      
+3. Обновить конфигурацию командой
+      
+      php bin/magento setup:upgrade
+      
+4. При необходимости, очистить кэш командой      
 
       php bin/magento cache:clean
